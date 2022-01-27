@@ -1,0 +1,29 @@
+#bnm
+{
+  text-align: center;
+  color: darkmagenta;       
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height:60%;  
+}
+
+#main
+{
+    text-align: center;
+   color: greenyellow;
+}
+
+#body,html
+{
+  background-color: rgb(13, 148, 226);
+}
+
+#h2
+{
+  color: whitesmoke;
+}
